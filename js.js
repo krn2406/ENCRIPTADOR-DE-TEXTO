@@ -2,7 +2,7 @@ const botonEncriptar = document.querySelector (".boton-encriptar");
 const textoEncriptar = document.querySelector (".encriptar");
 const aviso = document.querySelector (".texto-aviso");
 const respuesta = document.querySelector (".evaluar");
-const contenido= document.querySelector (".tarjeta-contenido");
+const contenido= document.querySelector (".tarjeta-contenedor");
 const botonCopiar= document.querySelector (".boton-copiar");
 const botonDesencriptar = document.querySelector (".boton-desencriptar");
 
